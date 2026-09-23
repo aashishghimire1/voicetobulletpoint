@@ -1,4 +1,4 @@
-# 🎙️ Voice To Bullet Point
+# 🎙️ Voice 2 Bullet Point
 
 **Turn voice memos into study flashcards — 100% local, no cloud.**
 
